@@ -4,6 +4,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
+
+
+public enum AgentControllers
+{
+    human = 0,
+    navmesh = 1,
+    mlagent = 2
+}
+
 public class CharacterController : MonoBehaviour
 {
     public bool playerControlled;
