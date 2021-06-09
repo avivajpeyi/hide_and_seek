@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HiderGameScene.unity
+    guid: 69f446aa4c3af467f8fc71e823e82f04
+  - enabled: 1
+    path: Assets/Scenes/HomeMenu.unity
+    guid: d94587658df3844a7bc785d1b2a4e2aa
+  - enabled: 1
+    path: Assets/Scenes/SeekerGameScene.unity
+    guid: 9f7d6f4efc41a4a2b91c8c18c96b0df5
   m_configObjects: {}
